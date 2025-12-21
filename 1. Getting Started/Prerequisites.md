@@ -73,7 +73,7 @@ Click on the run icon on the top right of the screen.
 
 A notification will pop up asking you to choose the python interpreter. Choose the one available.
 
-Once you see *Hello, world!* written in the bottom of the screen it means the setup is complete and you all the prerequisites necessary.
+Once you see *Hello, world!* written in the bottom of the screen it means the setup is complete and you have all of the prerequisites necessary.
 
 <p align="center">
     <image src="images/VSCodeNotTrustingMeMeme.png" width ="300px" />
