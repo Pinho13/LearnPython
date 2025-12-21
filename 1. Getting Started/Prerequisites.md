@@ -39,6 +39,8 @@ The Code Editor I personally recommend is Visual Studio Code, a free and lightwe
 * In case this pops up, click there:
 ![I Trust](images/I_trust_myself_vscode.png)
 
+### Adding the Python Extension
+
 As you can see, there are a few icons on the left side of the screen. The first thing we want to click is the last icon, which is the Extensions icon.
 
 VS Code allows us to install extensions. Extensions add extra features to the editor and can help us work more easily with specific programming languages.
@@ -46,6 +48,8 @@ VS Code allows us to install extensions. Extensions add extra features to the ed
 Next, we want to install the Python extension. This extension adds helpful features such as code autocomplete while writing Python code, as well as other tools that make coding in Python easier.
 
 ![Python Extension](images/DownloadPythonExtension.png)
+
+### Creating Our First Python File
 
 Now that this is done, we can go and create our first python file. The first icon in the left opens up a tab that shows all of the current files in the folder open.
 
