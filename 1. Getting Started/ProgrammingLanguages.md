@@ -6,6 +6,10 @@ But how does someone *create* a programming language? And how can a computer und
 
 There are 3 main types of programming languages: compiled, interpreted and a mixture of both.
 
+<p align="center">
+    <image src="images/Compiler_vs_Interpreter.jpg" width ="400px" />
+</p>
+
 ## Compiled Programming Languages
 
 In compiled languages, the code is processed by a **compiler** and translated into an executable file that the operating system can understand and run. Example: C++
@@ -21,3 +25,5 @@ In interpreted languages, the code is read and executed by an **interpreter** li
 <p align="center">
     <image src="images/Interpreted.png" width ="400px" />
 </p>
+
+Next topic: [Why Python](WhyPython.md)
