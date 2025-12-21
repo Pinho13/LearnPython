@@ -5,7 +5,7 @@ I have created this GitHub repository as a simple guide to help you learn the ba
 ## Table of Contents
 
 1. Getting Started
-    * Prerequisites
+    * [Prerequisites](1.%20Getting%20Started/Prerequisites.md)
     * How do Programming Languages Work
     * Why Python
     * The Interpreter
