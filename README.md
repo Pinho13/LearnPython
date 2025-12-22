@@ -17,20 +17,24 @@ I have created this GitHub repository as a simple guide to help you learn the ba
     * Arithmetic Operators
     * Important Functions
     * Comments
+    * Exercises
 
 3. Conditionals
     * Conditional Operators
     * Logical Operators
     * If Statements
+    * Exercises
 
 4. Loops and Complex Data Types
     * Complex Data Types
     * While Loops
     * For Loops
     * Break and Continue
+    * Exercises
 
 5. Functions
     * What are Functions
     * The Return Statement
     * Optional Parameters
     * Scope in Functions
+    * Exercises
