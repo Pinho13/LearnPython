@@ -9,7 +9,7 @@ I have created this GitHub repository as a simple guide to help you learn the ba
     * [How do Programming Languages Work](1.%20Getting%20Started/ProgrammingLanguages.md)
     * [Why Python](1.%20Getting%20Started/WhyPython.md)
     * [The Interpreter](1.%20Getting%20Started/TheInterpreter.md)
-    * Hello World
+    * [Hello World](1.%20Getting%20Started/HelloWorld.md)
 
 2. Variables and Basic Operations
     * Variables
