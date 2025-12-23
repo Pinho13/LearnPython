@@ -2,11 +2,6 @@
 
 Arithmetic operators are symbols used to perform mathematical operations in Python.
 
-<style>
-    table {
-        width: 100%;
-    }
-</style>
 
 <div align="center">
 
