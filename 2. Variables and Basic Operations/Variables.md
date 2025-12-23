@@ -62,4 +62,10 @@ number_3 = number_1 + number_2
 print(number_3) # Result is 15
 ``` 
 
+Be mindful when naming variables and try to choose names that clearly describe what they represent.
+
+<p align="center">
+    <image src="images/ChoosingVariableNameMeme.jpg" width="400px"/>
+</p>
+
 Next topic: [Basic Data Types](BasicDataTypes.md)
