@@ -20,7 +20,7 @@ I have created this GitHub repository as a simple guide to help you learn the ba
     * [Exercises](2.%20Variables%20and%20Basic%20Operations/Exercises.md)
 
 3. Conditionals
-    * Conditional Operators
+    * [Comparison Operators](3.%20Conditionals/ComparisonOperators.md)
     * Logical Operators
     * If Statements
     * Exercises
