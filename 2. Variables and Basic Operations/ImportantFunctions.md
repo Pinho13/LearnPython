@@ -79,4 +79,11 @@ print(round(3.3333)) # Output: 3
 print(round(3.75)) # Output: 4
 ```
 
+You can also pass a second argument to specify the number of decimal places to round to:
+
+```py
+print(round(1.333333, 2)) # Output: 1.33
+print(round(5.72, 1)) # Output: 5.7
+```
+
 Next Topic: [Comments](Comments.md)

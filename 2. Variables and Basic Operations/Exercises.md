@@ -24,9 +24,6 @@ Given two positive numbers, divide them and round the result to 2 decimal places
 | 1 / 3  | 0.33   |
 | 3 / 17 | 0.18   |
 
-> Note: You can use the second parameter of the ```round()``` function to specify how many decimal places to keep.
-> For example: ```round(5.579, 2)``` rounds the number to 2 decimal places.
-
 [Solution](solutions/2.Divider.py)
 
 ## 3. Average Calculator
