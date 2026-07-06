@@ -11,7 +11,7 @@ Comparison operators are used to compare any two values.
 |     >    |       Greater than       |  x > y   |
 |     <    |         Less than        |  x < y   |
 |    >=    | Greater than or equal to |  x >= y  |
-|     <=   |   Less than or equal to  |  x <=> y |
+|     <=   |   Less than or equal to  |  x <= y |
 
 </div>
 
@@ -36,6 +36,10 @@ print((10 >= 10) != True) # Output: False
 print(type(1) == type(1.0)) # Output: False
 ```
 > Note: 0 represents ```False``` and 1 represents ```True``` that is why you can compare them to numbers
+
+<p align="center">
+    <image src="images/BooleanMeme.jpeg" width="400px" />
+</p>
 
 Variables work as expect:
 
