@@ -43,6 +43,8 @@ if True:
 print("Hello")
 ```
 
+Output:
+
 ```text
 IndentationError: expected an indented block
 ```
