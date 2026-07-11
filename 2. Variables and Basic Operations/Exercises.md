@@ -1,6 +1,6 @@
 # Exercises
 
-> Note: The symbol // is used to indicate a line separation, like a paragraph for each part of the output.
+> Note: The symbol / is used to indicate a line separation, like a paragraph for each part of the output.
 
 ## 1. Length Printer
 
