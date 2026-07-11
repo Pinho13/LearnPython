@@ -18,7 +18,7 @@ Given a string, print its length.
 Given two positive numbers, divide them and round the result to 2 decimal places.
 
 | Input  | Output |
-|--------|--------|
+|:-------|:-------|
 | 1 / 3  | 0.33   |
 | 3 / 17 | 0.18   |
 
@@ -29,7 +29,7 @@ Given two positive numbers, divide them and round the result to 2 decimal places
 Given three integer numbers, print their average rounded to 1 decimal place.
 
 | Input      | Output |
-|------------|--------|
+|:-----------|:-------|
 | 1 / 3 / 5  | 3.0    |
 | 3 / 17 / 6 | 8.7    |
 
@@ -40,7 +40,7 @@ Given three integer numbers, print their average rounded to 1 decimal place.
 Given the length of two sides of a right-angled triangle, make a hypotenuse calculator. Round the result to 3 decimal places.
 
 | Input  | Output |
-|--------|--------|
+|:-------|:-------|
 | 3 / 8  | 8.544  |
 | 1 / 17 | 17.029 |
 
@@ -75,7 +75,7 @@ Given three numbers (a, b and c), make a quadratic formula calculator. The resul
 Given a string and a number n, repeate that string n times.
 
 | Input | Output                   |
-|:------|--------------------------|
+|:------|:-------------------------|
 | ter   | terterterterterter       |
 | aqui  | aquiaquiaquiaquiaquiaqui |
 
