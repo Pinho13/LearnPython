@@ -104,4 +104,4 @@ Otherwise, print `"Invalid triangle"`.
 | 3 / 3 / 3  | Equilateral      |
 | 2 / 3 / 10 | Invalid triangle |
 
-Next topic: 
+Next topic: [Complex Data Types](../4.%20Loops%20and%20Complex%20Data%20Types/ComplexDataTypes.md)
