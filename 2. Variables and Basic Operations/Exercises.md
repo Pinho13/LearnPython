@@ -115,3 +115,5 @@ Example:
 | 27:45        | Wake-Up time: 21:52 // Not the same day, 1 day(s) after you slept. |
 
 [Solution](solutions/9.Future_Time.py)
+
+Next topic: [Comparison Operators](../3.%20Conditionals/ComparisonOperators.md)

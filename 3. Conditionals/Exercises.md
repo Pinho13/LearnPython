@@ -103,3 +103,5 @@ Otherwise, print `"Invalid triangle"`.
 |:-----------|:-----------------|
 | 3 / 3 / 3  | Equilateral      |
 | 2 / 3 / 10 | Invalid triangle |
+
+Next topic: 

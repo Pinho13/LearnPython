@@ -23,7 +23,7 @@ I have created this GitHub repository as a simple guide to help you learn the ba
     * [Comparison Operators](3.%20Conditionals/ComparisonOperators.md)
     * [Logical Operators](3.%20Conditionals/LogicalOperators.md)
     * [If Statements](3.%20Conditionals/IfStatements.md)
-    * Exercises
+    * [Exercises](3.%20Conditionals/Exercises.md)
 
 4. Loops and Complex Data Types
     * Complex Data Types
