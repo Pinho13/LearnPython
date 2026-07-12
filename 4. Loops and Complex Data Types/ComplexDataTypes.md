@@ -12,3 +12,7 @@ Here are the ones we will be going over:
 All of them can store different data types at the same time.
 
 These data types are used to store multiple values in the same variable. Although they have many similarities, they differ in how they store and manage data, making each one suitable for different situations.
+
+<p align="center">
+    <image src="images/ComplexDataTypesMeme.jpg" width="400px" />
+</p>

@@ -41,4 +41,9 @@ Tuples are:
 - Immutable (cannot be changed)
 - Allow duplicates
 
+<p align="center">
+    <image src="../images/TuplesMeme.png" width="600px" />
+</p>
+
+
 [Go Back](../ComplexDataTypes.md)

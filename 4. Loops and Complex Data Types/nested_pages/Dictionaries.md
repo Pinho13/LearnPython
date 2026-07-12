@@ -181,4 +181,9 @@ Dictionaries are:
 - Require unique keys
 - Preserve insertion order (since python 3.7)
 
+<p align="center">
+    <image src="../images/DictsMeme.png" width="300px" />
+</p>
+
+
 [Go Back](../ComplexDataTypes.md)

@@ -138,4 +138,9 @@ Lists are:
 - Mutable (can be changed)
 - Allow duplicates
 
+<p align="center">
+    <image src="../images/ListsMeme.jpg" width="400px" />
+</p>
+
+
 [Go Back](../ComplexDataTypes.md)

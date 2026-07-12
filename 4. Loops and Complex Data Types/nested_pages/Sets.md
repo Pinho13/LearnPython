@@ -145,4 +145,8 @@ Sets are:
 - Not accessed by index
 - Support union (`|`), intersection (`&`), and difference (`-`)
 
+<p align="center">
+    <image src="../images/SetsMeme.jpg" width="500px" />
+</p>
+
 [Go Back](../ComplexDataTypes.md)
