@@ -94,3 +94,24 @@ text = "Python"
 
 print(text[::-1]) # Output: nohtyP
 ```
+
+### Membership
+
+Use the `in` operator to check whether a character or substring exists in a string.
+
+```py
+text = "Python"
+
+print("P" in text)      # Output: True
+print("tho" in text)    # Output: True
+print("Java" in text)   # Output: False
+```
+
+### String Summary
+
+Strings are:
+
+- Ordered
+- Accessed by index (starting at 0)
+- Immutable (cannot be changed)
+- Sequences of characters
