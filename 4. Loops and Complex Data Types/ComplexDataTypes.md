@@ -13,6 +13,10 @@ All of them can store different data types at the same time.
 
 These data types are used to store multiple values in the same variable. Although they have many similarities, they differ in how they store and manage data, making each one suitable for different situations.
 
+With this new info, you should revisit [Strings](nested_pages/Strings.md).
+
 <p align="center">
     <image src="images/ComplexDataTypesMeme.jpg" width="400px" />
 </p>
+
+Next topic: [While Loops](WhileLoops.md)
