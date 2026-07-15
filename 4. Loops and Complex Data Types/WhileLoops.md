@@ -101,4 +101,8 @@ Output:
 ****
 ```
 
-Next topic: (For Loops)[ForLoops.md]
+<p align="center">
+    <image src="images/WhileLoopsMeme.jpeg" width="500px" />
+</p>
+
+Next topic: [For Loops](ForLoops.md)
