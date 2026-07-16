@@ -29,7 +29,7 @@ I have created this GitHub repository as a simple guide to help you learn the ba
     * [Complex Data Types](4.%20Loops%20and%20Complex%20Data%20Types/ComplexDataTypes.md)
     * [While Loops](4.%20Loops%20and%20Complex%20Data%20Types/WhileLoops.md)
     * [For Loops](4.%20Loops%20and%20Complex%20Data%20Types/ForLoops.md)
-    * Break and Continue
+    * [Break and Continue](4.%20Loops%20and%20Complex%20Data%20Types/BreakAndContinue.md)
     * Exercises
 
 5. Functions
