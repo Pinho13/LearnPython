@@ -30,7 +30,7 @@ I have created this GitHub repository as a simple guide to help you learn the ba
     * [While Loops](4.%20Loops%20and%20Complex%20Data%20Types/WhileLoops.md)
     * [For Loops](4.%20Loops%20and%20Complex%20Data%20Types/ForLoops.md)
     * [Break and Continue](4.%20Loops%20and%20Complex%20Data%20Types/BreakAndContinue.md)
-    * Exercises
+    * [Exercises](4.%20Loops%20and%20Complex%20Data%20Types/Exercises.md)
 
 5. Functions
     * What are Functions
