@@ -90,3 +90,5 @@ A **prefix** is a sequence of characters at the beginning of a word.
 | `["dog", "racecar", "car"]` | `""` |
 
 > **Note:** If the words have no common prefix, print an empty string (`""`).
+
+Next topic: [What are Functions](../5.%20Functions/WhatAreFunctions.md)
