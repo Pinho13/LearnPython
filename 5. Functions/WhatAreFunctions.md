@@ -50,3 +50,7 @@ Functions are useful because they:
 - Make programs easier to read.
 - Make code easier to test and maintain.
 - Break large problems into smaller, manageable pieces.
+
+<p align="center">
+    <image src="images/FunctionsMeme.png" width="400px" />
+</p>

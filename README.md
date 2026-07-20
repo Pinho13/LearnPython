@@ -33,7 +33,7 @@ I have created this GitHub repository as a simple guide to help you learn the ba
     * [Exercises](4.%20Loops%20and%20Complex%20Data%20Types/Exercises.md)
 
 5. Functions
-    * What are Functions
+    * [What are Functions](5.%20Functions/WhatAreFunctions.md)
     * The Return Statement
     * Optional Parameters
     * Scope in Functions
