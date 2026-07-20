@@ -54,3 +54,5 @@ Functions are useful because they:
 <p align="center">
     <image src="images/FunctionsMeme.png" width="400px" />
 </p>
+
+Next topic: [The Return Statement](TheReturnStatement.md)
