@@ -114,3 +114,5 @@ SyntaxError: positional argument follows keyword argument
 <p align="center">
     <image src="images/OptionalParametersMeme.jpeg" width="500px" />
 </p>
+
+Next topic: [Variable Scope](VariableScope.md)
