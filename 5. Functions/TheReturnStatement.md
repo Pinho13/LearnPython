@@ -236,3 +236,4 @@ A function with no `return` or with an empty `return` will return the value `Non
     <image src="images/ReturnStatementMeme.jpg" width="400px" />
 </p>
 
+Next topic: [Optional Parameters](OptionalParameters.md)

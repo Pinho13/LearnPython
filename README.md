@@ -34,7 +34,7 @@ I have created this GitHub repository as a simple guide to help you learn the ba
 
 5. Functions
     * [What are Functions](5.%20Functions/WhatAreFunctions.md)
-    * The Return Statement
+    * [The Return Statement](5.%20Functions/TheReturnStatement.md)
     * Optional Parameters
     * Scope in Functions
     * Exercises
