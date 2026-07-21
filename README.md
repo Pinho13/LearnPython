@@ -37,4 +37,4 @@ I have created this GitHub repository as a simple guide to help you learn the ba
     * [The Return Statement](5.%20Functions/TheReturnStatement.md)
     * [Optional Parameters](5.%20Functions/OptionalParameters.md)
     * [Variable Scope](5.%20Functions/VariableScope.md)
-    * Exercises
+    * [Exercises](5.%20Functions/Exercises.md)

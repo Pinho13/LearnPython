@@ -129,3 +129,5 @@ Output:
 <p align="center">
     <image src="images/VariableScopeMeme.png" width="400px" />
 </p>
+
+Next topic: [Exercises](Exercises.md)
