@@ -7,7 +7,7 @@ print("Hello, world!")
 ```
 <br>
 <p align="center">
-    <image src="images/Why_I_am_so_good_at_coding.jpeg" width ="250px" />
+    <image src="images/Why_I_am_so_good_at_coding.jpeg" width ="400px" />
 </p>
 
 ## Print
